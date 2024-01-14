@@ -18,7 +18,7 @@
 * [정책 평가와 정책 제어 / 모델 기반과 모델 프리](https://github.com/LimSoYeong/Reinforcement-Learning-Study/blob/d2c10b89fdaa7939b3d378b2457b464d3e7f1d67/2.%20%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%20%EA%B8%B0%EB%B3%B8%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/2-3.%20%EC%A0%95%EC%B1%85%20%ED%8F%89%EA%B0%80%EC%99%80%20%EC%A0%95%EC%B1%85%20%EC%A0%9C%EC%96%B4%2C%20%EB%AA%A8%EB%8D%B8%20%EA%B8%B0%EB%B0%98%EA%B3%BC%20%EB%AA%A8%EB%8D%B8%20%ED%94%84%EB%A6%AC.md)
 * [다이내믹 프로그래밍](https://github.com/LimSoYeong/Reinforcement-Learning-Study/blob/d2c10b89fdaa7939b3d378b2457b464d3e7f1d67/2.%20%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%20%EA%B8%B0%EB%B3%B8%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/2-4.%20%EB%8B%A4%EC%9D%B4%EB%82%B4%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
 * [몬테카를로 방법]()
-* [TD와 SARSA]()
+* [TD와 SARSA](https://github.com/LimSoYeong/Reinforcement-Learning-Study/blob/main/2.%20%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%20%EA%B8%B0%EB%B3%B8%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/2-6.%20TD%EC%99%80%20SARSA.md)
 * [Q-Learning]()
 
 
